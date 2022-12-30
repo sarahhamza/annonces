@@ -1,0 +1,39 @@
+{
+      "Annonce": [
+        {
+          "titre": "Iphone13 Pro Max",
+          "description": "The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7" screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling.",
+          "url": "apple-iphone-13.jpeg",
+          "date": "28 January 2022",
+          "price": " 3920.000 TND"
+        },
+         {
+          "titre": "BMW M4 Competition",
+          "description": "La BMW M4 Coupé développe une puissance sportive de 480 ch et un couple de 550 Nm. L'association de la propulsion et d'une boîte manuelle M à 6 rapports parfaitement étagée autorise une conduite très dynamique qui fait du véhicule un pur sportif de haut niveau.",
+          "url": "bmw.jpeg",
+          "date": "17 March 2014",
+          "price": " 271 700 DT"
+        },
+         {
+          "titre": "PC PORTABLE LENOVO I5 10È GÉN 8GO 256GO SSD - GRIS",
+          "description": "Écran 15.6" Full HD - Processeur Intel Core i5-10210U, up to 4.2 Ghz, 6 Mo de cache - Mémoire 8 Go - Disque 1 To - Carte graphique Nvidia MX130, 2 Go de mémoire GDDR5 dédiée - Wifi - Bluetooth - USB 3.1 Type C - HDMI - RJ45 - Graveur DVD - Couleur Silver - Garantie 1 an + SIM Orange Offerte 60 Go",
+          "url": "pc.jpeg",
+          "date": "10 April 2019",
+          "price": " 1 785,000 TND"
+        },
+         {
+          "titre": "TROTTINETTE ELECTRIQUE APRILIA Smart Movement eSR1",
+          "description": "Frein : Electrique avant ; LCD de 3,5 pouces ; Batterie : 36V, 7.8Ah, 280Wh ; LED à l'avant et à l'arrière ; Niveau de protection : IPX4 ; Durée de charge : Environ 5/6 heures, batterie amovible.",
+          "url": "trotinette.jpeg",
+          "date": "28 January 2022",
+          "price": " 4,299.000 TND"
+        },
+         {
+          "titre": "TABLETTE SAMSUNG GALAXY TAB A7 LITE 3GO/32GO GRIS",
+          "description": "Écran : Écran 8.7'' , Processeur : Processeur 2.3GHz, 1.8GHz  , RAM : 3GB, Stockage : 32GB, Appareil Photo Arrière : 8MP, Appareil Photo Avant : 2MP, Système d’exploitation : ANDROID 11, Résolution : 1340 x 800  Pixels , Connectivité :Wi-Fi, 4G , Bluetooth 5.0, GPS, Batterie : 5100 mAh, Couleur : GRIS, Garantie :1an",
+          "url": "tablette.webp",
+          "date": "08 February 2020",
+          "price": " 559,00 TND"
+        },
+            ]
+}
