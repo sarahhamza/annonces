@@ -2,8 +2,7 @@
       "Annonce": [
         {
           "titre": "Iphone13 Pro Max",
-          "description": "The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7" screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling.",
-          "url": "apple-iphone-13.jpeg",
+          "description": "The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7",
           "date": "28 January 2022",
           "price": " 3920.000 TND"
         },
@@ -16,7 +15,7 @@
         },
          {
           "titre": "PC PORTABLE LENOVO I5 10È GÉN 8GO 256GO SSD - GRIS",
-          "description": "Écran 15.6" Full HD - Processeur Intel Core i5-10210U, up to 4.2 Ghz, 6 Mo de cache - Mémoire 8 Go - Disque 1 To - Carte graphique Nvidia MX130, 2 Go de mémoire GDDR5 dédiée - Wifi - Bluetooth - USB 3.1 Type C - HDMI - RJ45 - Graveur DVD - Couleur Silver - Garantie 1 an + SIM Orange Offerte 60 Go",
+          "description": "Écran 15.6",
           "url": "pc.jpeg",
           "date": "10 April 2019",
           "price": " 1 785,000 TND"
@@ -34,6 +33,6 @@
           "url": "tablette.webp",
           "date": "08 February 2020",
           "price": " 559,00 TND"
-        },
+        }
             ]
 }
